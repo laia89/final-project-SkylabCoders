@@ -5,32 +5,32 @@
 BabyBoom is a marketplace company which offers a website dedicated to the purchase and sale of second-hand -baby related- products among users through the Internet. Use geolocation so that users can buy and sell based on their geographical proximity.
 
 
-Uses Cases
+## Uses Cases
 
 ![USES CASES](docs/images/babyboom_use_cases.png)
 
 
-Technical description
+## Technical description
 
 ![TECHNICAL DESCRIPTION](docs/images/html5-side.png)
 
 
-Login sequence
+## Login sequence
 
 ![LOGIN](docs/images/babyboom_login.png)
 
 
-Save Profile and Products photos to Cloudinary Sequence
+## Save Profile and Products photos to Cloudinary Sequence
 
 ![CLOUDINARY IMAGE](docs/images/babyboom_saveImage_sequence.png)
 
 
-Block Components
+## Block Components
 
 ![BLOCK COMPONENTS](docs/images/babyboom_blocks_component.png)
 
 
-Schemas
+## Schemas
 
 ![SchEMAS](docs/images/babyboom_schema.png)
 
