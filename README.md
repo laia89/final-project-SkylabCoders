@@ -9,6 +9,12 @@ Uses Cases
 
 ![USES CASES](docs/images/babyboom_use_cases.png)
 
+
+Technical description
+
+![TECHNICAL DESCRIPTION](docs/images/html5-side.png)
+
+
 Login sequence
 
 ![LOGIN](docs/images/babyboom_login.png)
