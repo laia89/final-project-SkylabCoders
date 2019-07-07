@@ -1,3 +1,6 @@
+# Live Demo 
+## [Live demo](http://babyboom.surge.sh/#/)
+
 # Description
 BabyBoom is a marketplace company which offers a website dedicated to the purchase and sale of second-hand -baby related- products among users through the Internet. Use geolocation so that users can buy and sell based on their geographical proximity.
 
